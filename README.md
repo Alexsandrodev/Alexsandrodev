@@ -80,7 +80,6 @@ Tenho interesse especial em projetos onde código, arquitetura e entendimento do
 
 ## Experiência em desenvolvimento
 
-```ts
 const profile = {
   role: "Full-Stack Developer",
 
@@ -321,8 +320,3 @@ O ambiente original não está mais em funcionamento, mas o projeto fez parte da
 />
 
 </div>
-```
-
-Para a **Snake funcionar**, você ainda precisa criar o workflow `.github/workflows/snake.yml` no repositório `Alexsandrodev/Alexsandrodev`; o `Platane/snk@v3` continua suportando geração automática via GitHub Actions.
-
-Um detalhe: o serviço público de **GitHub Profile Trophy** já teve indisponibilidades em 2026 e o próprio projeto alerta sobre custo/continuidade do endpoint público. O código acima funciona com o endpoint oficial atual, mas essa seção pode eventualmente ficar fora do ar.
