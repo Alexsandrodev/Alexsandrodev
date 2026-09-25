@@ -1,46 +1,30 @@
-```md
-<!--
-  GitHub Profile README
-  Alexsandro Ferreira Mendes
--->
-
 <div align="center">
 
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:2563eb&text=Alexsandro%20Ferreira%20Mendes&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn"
+/>
+
+<a href="https://git.io/typing-svg">
   <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:2563eb&text=Alexsandro%20Ferreira%20Mendes&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn"
-    alt="Alexsandro Ferreira Mendes"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full-Stack+Pleno;React+%7C+TypeScript+%7C+Python+%7C+PHP;Django+%7C+FastAPI+%7C+Laravel;Software+voltado+a+problemas+reais"
+    alt="Typing SVG"
   />
+</a>
 
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full-Stack+Pleno;React+%7C+TypeScript+%7C+Python+%7C+PHP;Django+%7C+FastAPI+%7C+Laravel;Construindo+solu%C3%A7%C3%B5es+para+problemas+reais"
-      alt="Typing SVG"
-    />
-  </a>
+<br/>
 
-  <br/>
+<a href="https://www.linkedin.com/in/alexsandro-ferreira/">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="https://github.com/Alexsandrodev">
-    <img
-      src="https://img.shields.io/badge/GitHub-Alexsandrodev-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"
-      alt="GitHub"
-    />
-  </a>
+<a href="https://github.com/Alexsandrodev">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-  <a href="https://www.linkedin.com/in/alexsandro-ferreira/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Alexsandro%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/alexsandro.002/">
-    <img
-      src="https://img.shields.io/badge/Instagram-@alexsandro.002-0d1117?style=for-the-badge&logo=instagram&logoColor=3B82F6"
-      alt="Instagram"
-    />
-  </a>
+<a href="https://www.instagram.com/alexsandro.002/">
+  <img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=60A5FA" />
+</a>
 
 </div>
 
@@ -48,21 +32,66 @@
 
 ## Sobre mim
 
-Sou **Alexsandro Ferreira Mendes**, Desenvolvedor **Full-Stack Pleno**, atuando no desenvolvimento de aplicações web com foco em organização, manutenção, desempenho e evolução de sistemas.
+Sou **Alexsandro Ferreira Mendes**, Desenvolvedor **Full-Stack Pleno**, com atuação em desenvolvimento de aplicações web, APIs e sistemas com regras de negócio complexas.
 
-No front-end, trabalho principalmente com **React**.  
-No back-end, desenvolvo com **TypeScript**, **Python** e **PHP**, utilizando tecnologias como **Django**, **FastAPI** e **Laravel**.
+Trabalho principalmente com **React e TypeScript** no front-end e com **Node.js, Python e PHP** no back-end, utilizando frameworks como **Django, FastAPI e Laravel**.
 
-Gosto de trabalhar em aplicações que resolvem problemas reais e que exigem não apenas implementação de funcionalidades, mas também atenção à arquitetura, regras de negócio, banco de dados e experiência de uso.
+Minha experiência envolve desenvolvimento e evolução de sistemas em produção, integração entre front-end e back-end, modelagem e consultas em banco de dados, automações, manutenção de aplicações e implementação de novas funcionalidades.
+
+Tenho interesse especial em projetos onde código, arquitetura e entendimento do negócio precisam caminhar juntos.
+
+---
+
+## Stack principal
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" />
+
+</td>
+
+<td align="center" width="33%">
+
+### Back-end
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,fastapi,php,laravel&theme=dark" />
+
+</td>
+
+<td align="center" width="33%">
+
+### Infra & Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,aws,linux,git,github&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Experiência em desenvolvimento
 
 ```ts
-const alexsandro = {
+const profile = {
   role: "Full-Stack Developer",
 
-  frontend: ["React"],
+  frontend: [
+    "React",
+    "TypeScript",
+    "JavaScript",
+  ],
 
   backend: [
-    "TypeScript",
+    "Node.js",
     "Python",
     "PHP",
   ],
@@ -73,14 +102,19 @@ const alexsandro = {
     "Laravel",
   ],
 
-  focus: [
-    "Web Applications",
-    "Backend",
+  database: [
+    "PostgreSQL",
+  ],
+
+  areas: [
     "APIs",
     "Business Rules",
+    "Web Applications",
+    "Automations",
+    "Database Design",
+    "System Maintenance",
   ],
 };
-```
 
 ---
 
